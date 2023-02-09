@@ -1,11 +1,12 @@
 ### Hi ! I'm Gokul Soumya :wave:
 
-I'm a college sophomore from India, doing my engineering degree in CS.
+I'm a college junior from India, doing my engineering degree in CS.
 
-I like the command line and love making it more cozy and fun :)
+I love the command line and spend most of my time there :)
 
 I'm currently working on...
 
-1. [Helix](https://github.com/helix-editor/helix/) - A modern text editor inspired from vim and kakoune.
-2. A personal todo manager written in Golang.
-3. An [LSP](https://microsoft.github.io/language-server-protocol/) for Python written in Rust.
+1. [Helix](https://github.com/helix-editor/helix/) - A modern text editor inspired from vim and kakoune
+2. A TUI library in Rust
+3. A terminal frontend for GitHub
+4. A terminal UI for Flutter development
