@@ -1,6 +1,6 @@
 ### Hi ! I'm Gokul Soumya :wave:
 
-I'm a college junior from India, doing my engineering degree in CS.
+I'm a college senior from India, doing my engineering degree in CS.
 
 I love the command line and spend most of my time there :)
 
